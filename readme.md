@@ -1,4 +1,4 @@
-- 👨‍💻 All of my projects are available at
+All of my projects are available at
 [choirulrasyid.vercel.app](https://choirulrasyid.vercel.app)
 
 <h3 align="left">Languages and Tools:</h3>
