@@ -105,10 +105,3 @@ All of my projects are available at
       height="40" />
   </a>
 </p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rullabcde&show_icons=true&locale=en&layout=compact"
-    alt="rullabcde" />
-</p>
