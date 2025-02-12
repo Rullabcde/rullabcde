@@ -17,4 +17,4 @@ All of my projects are available at
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rullabcde&" alt="rullabcde" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rullabcde&" alt="Rullabcde" /></p>
