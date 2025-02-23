@@ -1,5 +1,5 @@
 All of my projects are available at
-[choirulrasyid.vercel.app](https://choirulrasyid.web.id)
+[choirulrasyid.web.id](https://choirulrasyid.web.id)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
