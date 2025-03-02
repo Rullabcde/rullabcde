@@ -1,6 +1,6 @@
 All of my projects are available at [choirulrasyid.web.id](https://choirulrasyid.web.id)  
 
-<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="100%" alt="Lazy Mode GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="50%" alt="Funny Lazy Mode GIF" />
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">  
@@ -18,5 +18,4 @@ All of my projects are available at [choirulrasyid.web.id](https://choirulrasyid
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" /></a>  
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>  
   <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" /></a>  
-</p>  
-
+</p>
