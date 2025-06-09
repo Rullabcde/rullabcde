@@ -9,7 +9,7 @@ All of my projects are available at [choirulrasyid.web.id](https://choirulrasyid
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>  
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>  
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /></a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /></a>  
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>  
   <a href="https://en.wikipedia.org/wiki/Domain_Name_System" target="_blank"><img src="https://img.shields.io/badge/DNS-0066CC?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS" /></a>  
   <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>  
@@ -23,3 +23,4 @@ All of my projects are available at [choirulrasyid.web.id](https://choirulrasyid
   <a href="https://uptime.kuma.pet/" target="_blank"><img src="https://img.shields.io/badge/Uptime_Kuma-4D85EE?style=for-the-badge&logo=uptime-kuma&logoColor=white" alt="Uptime Kuma" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" /></a>  
 </p>
+
