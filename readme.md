@@ -1,8 +1,8 @@
-All of my projects are available at [choirulrasyid.web.id](https://choirulrasyid.web.id)
+[Portfolio→](https://choirulrasyid.web.id)
 
-<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="50%" alt="Funny Lazy Mode GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="40%" alt="Funny Lazy Mode GIF" />
 
-<h3 align="left">Languages and Tools:</h3>  
+<h3 align="left">Skills:</h3>  
 <p align="left">  
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>  
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>  
