@@ -23,8 +23,6 @@ All of my projects are available at [choirulrasyid.web.id](https://choirulrasyid
   <a href="https://jinja.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" /></a>  
   <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>  
   <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>  
-  <a href="https://grafana.com/docs/loki/latest/clients/promtail/" target="_blank"><img src="https://img.shields.io/badge/Promtail-0A0A0A?style=for-the-badge&logo=grafana&logoColor=white" alt="Promtail" /></a>  
-  <a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://img.shields.io/badge/Loki-0A0A0A?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" /></a>  
   <a href="https://uptime.kuma.pet/" target="_blank"><img src="https://img.shields.io/badge/Uptime_Kuma-4D85EE?style=for-the-badge&logo=uptime-kuma&logoColor=white" alt="Uptime Kuma" /></a>  
 </p>
 
