@@ -1,7 +1,7 @@
 [Portfolio→](https://choirulrasyid.web.id)
 
 <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="40%" alt="Funny Lazy Mode GIF" />
-
+<!-- 
 <h3 align="left">Skills:</h3>  
 <p align="left">  
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>  
@@ -18,7 +18,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>  
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>  
   <a href="https://mailcow.email/" target="_blank"><img src="https://img.shields.io/badge/Mailcow-0064FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Mailcow" /></a>  
-  <!-- <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>   -->
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>  
   <a href="https://www.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>  
   <a href="https://jinja.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" /></a>  
   <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>  
@@ -26,4 +26,4 @@
   <a href="https://uptime.kuma.pet/" target="_blank"><img src="https://img.shields.io/badge/Uptime_Kuma-4D85EE?style=for-the-badge&logo=uptime-kuma&logoColor=white" alt="Uptime Kuma" /></a>  
 </p>
 
-
+ -->
